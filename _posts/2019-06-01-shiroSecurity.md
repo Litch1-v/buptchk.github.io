@@ -1,7 +1,7 @@
 ---
-layout: 
-title: 
-tags: 
+layout: post
+title: 从一次开发问题看shiro的正确使用
+tags: Web安全 Web开发
 typora-copy-images-to: ../assets/img
 ---
 
