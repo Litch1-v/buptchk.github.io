@@ -75,7 +75,7 @@ Runtime.getRuntime().exec("calc");
 
 `org.apache.commons.collections.map.LazyMap#get`
 
-![1560857576938](C:\Users\牛奶冻荔枝\AppData\Roaming\Typora\typora-user-images\1560857576938.png)
+![1560857576938](/assets/img/1560857576938.png)
 
 调用了factory.transform(key)，而这里的factory是LazyMap的成员变量，也是我们可控的。
 
